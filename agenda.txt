@@ -3,4 +3,6 @@ Today we gonna study on GitHub
 2 git merge
 3 git fetch
 4 git pull 
-5 brach strategy
+5 braching
+6 other git comands
+
