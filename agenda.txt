@@ -5,4 +5,4 @@ Today we gonna study on GitHub
 4 git pull 
 5 braching
 6 other git comands
-
+7 git collaboration
